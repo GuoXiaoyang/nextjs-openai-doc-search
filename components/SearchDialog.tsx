@@ -14,6 +14,7 @@ import { Input } from '@/components/ui/input'
 import { SSE } from 'sse.js'
 import type { CreateCompletionResponse } from 'openai'
 import { X, Loader, User, Frown, CornerDownLeft, Search, Wand } from 'lucide-react'
+import ReactMarkdown from 'react-markdown'
 
 function promptDataReducer(
   state: any[],
@@ -236,13 +237,17 @@ export function SearchDialog() {
               )}
 
               {answer && !hasError ? (
-                <div className="flex items-center gap-4 dark:text-white">
-                  <span className="bg-green-500 p-2 w-8 h-8 rounded-full text-center flex items-center justify-center">
-                    <Wand width={18} className="text-white" />
-                  </span>
-                  <h3 className="font-semibold">Answer:</h3>
-                  {answer}
-                </div>
+                <>
+                  <div className="flex items-center gap-4 dark:text-white">
+                    <span className="bg-green-500 p-2 w-8 h-8 rounded-full text-center flex items-center justify-center">
+                      <Wand width={18} className="text-white" />
+                    </span>
+                    <h3 className="font-semibold">Answer:</h3>
+                  </div>
+                  <ReactMarkdown className="markdown-container px-[1.2rem] py-2">
+                    {answer.replace(/__GHOST_URL__/g, 'https://wiki.moego.pet')}
+                  </ReactMarkdown>
+                </>
               ) : null}
 
               <div className="relative">
