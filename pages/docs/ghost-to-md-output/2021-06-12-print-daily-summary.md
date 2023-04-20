@@ -12,9 +12,9 @@ If your workflow requires appointment list on paper for every day, this print fe
 
 ### How to print your daily summary
 
-1. On the calendar, click the <**print icon>** on the left side
-2. On the popup window, <**select the date>** that you want to print
-3. Hit **<Print>**
+1. On the calendar, click the **print icon** on the left side
+2. On the popup window, **select the date** that you want to print
+3. Hit **Print**
 4. Adjust relative parameters according to your web browser and confirm
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-14-at-14.57.42.gif)

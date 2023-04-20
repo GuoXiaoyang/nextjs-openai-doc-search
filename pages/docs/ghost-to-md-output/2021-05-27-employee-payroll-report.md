@@ -14,11 +14,11 @@ A payroll report by employee name, with a list of appointments the employee has 
 
 # Employee payroll report
 
-1. Go to **<Report>** on the side-menu
-2. Click **<Reports>** tab on the top menu
-3. Click **<Employees>** tab on the side-menu
-4. Choose **<Employee payroll report>**
-5. Choose the duration you want to know and click **<Run report>**
+1. Go to **Report** on the side-menu
+2. Click **Reports** tab on the top menu
+3. Click **Employees** tab on the side-menu
+4. Choose **Employee payroll report**
+5. Choose the duration you want to know and click **Run report**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-15-at-10.48.56.png)![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-15-at-10.51.30.gif)
 ## Export the data document
@@ -27,8 +27,8 @@ A payroll report by employee name, with a list of appointments the employee has 
 
 A better way to check the sum-up payroll of each employee!
 
-1. Go to **<Report>** on the side-menu
-2. Click the **<Dashboard>** section on the top-left corner 
+1. Go to **Report** on the side-menu
+2. Click the **Dashboard** section on the top-left corner 
 3. Roll down the page and check the **"Employee Overview"** section
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-15-at-10.59.49.png)

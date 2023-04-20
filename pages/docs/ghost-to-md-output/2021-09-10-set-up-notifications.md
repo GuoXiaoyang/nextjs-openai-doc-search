@@ -12,10 +12,10 @@ Set up notifications so you or your staff will always receive reminders whenever
 
 # Set up notifications
 
-1. Go to **<Setting>** on the side-menu
-2. Click on **<Staff>** tab on the secondary side-menu
+1. Go to **Setting** on the side-menu
+2. Click on **Staff** tab on the secondary side-menu
 3. Pick one of the staff you want to set
-4. Roll down to the **<Receive notification>** part
+4. Roll down to the **Receive notification** part
 5. Customize the setting of the notification that suits your business!
 
 ![](__GHOST_URL__/content/images/2021/09/_11.gif)
@@ -33,7 +33,7 @@ Set up notifications so you or your staff will always receive reminders whenever
 # Check notifications
 
 1. Open MoeGo
-2. Click the **<bell icon>** on the top menu bar
+2. Click the **bell icon** on the top menu bar
 3. A list of notifications will show up
 4. Click one to read the details.
 

@@ -16,12 +16,12 @@ You can now charge with different payment methods, or take a deposit in one tick
 
 # Take partial payment with different payment methods
 
-1. Go to **<Appointments>** on the side menu bar
+1. Go to **Appointments** on the side menu bar
 2. Click on the appointment that needs to take payments and open the appointment details page
-3. Click on** <Take payment>** button
-4. Modify ** <Payment amount>**
-5. Select a **<Payment method>**
-6. Click on **<Take payment>**
+3. Click on** Take payment** button
+4. Modify ** Payment amount**
+5. Select a **Payment method**
+6. Click on **Take payment**
 
 ![](__GHOST_URL__/content/images/2021/09/_19-1.gif)
 - You can divide the payment as many times as you need! 

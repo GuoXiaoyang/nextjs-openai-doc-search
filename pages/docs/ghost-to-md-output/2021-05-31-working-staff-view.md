@@ -15,8 +15,8 @@ Only working staff will be shown on the calendar view. Your calendar will be loo
 
 # How to switch to the working staff view
 
-1. On the top-left corner of the calendar, click the **<All staff>** dropdown
-2. Select the** <Working staff>** option on the bottom
+1. On the top-left corner of the calendar, click the **All staff** dropdown
+2. Select the** Working staff** option on the bottom
 3. Woo-hoo! Enjoy your clean and sharp calendar with only the working staffs
 
 ![](__GHOST_URL__/content/images/2021/09/_32.gif)

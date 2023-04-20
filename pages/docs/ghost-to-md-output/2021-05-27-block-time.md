@@ -17,23 +17,23 @@ tags: 03. Appointments
 
 # How to block time
 
-1. Go to **<Appointments>**
+1. Go to **Appointments**
 2. Click the time that you want to create a block on the calendar
-3. Click** <Block>** on the popup
-4. Adjust the** <Duration time>**, type in the **<Description>** and select a **<Color code>** for the block
-5. Hit** <Save>**
+3. Click **Block** on the popup
+4. Adjust the **Duration time**, type in the **Description** and select a **Color code** for the block
+5. Hit** Save**
 
 ![](__GHOST_URL__/content/images/2021/05/create_block.gif)
 # Create a Full day block
 
-1. Turn on the **<Full day>** option in a Block time window
+1. Turn on the **Full day** option in a Block time window
 2. The block time will become a full day block
 
 ![](__GHOST_URL__/content/images/2021/05/full-day-block.png)
 # Create a repeat block
 
-1. Turn on the **<Repeat>** option when creating a block
-2. Adjust the repeat rules for the block and click **<Save>**
+1. Turn on the **Repeat** option when creating a block
+2. Adjust the repeat rules for the block and click **Save**
 3. Repeated blocks will have a green icon
 
 ![](__GHOST_URL__/content/images/2021/05/repeat-block.png)![](__GHOST_URL__/content/images/2021/05/block-repeat-rules.png)
@@ -47,8 +47,8 @@ tags: 03. Appointments
 # Delete block
 
 1. Click on a block and open the clock time popup.
-2. Click **<delete>**
-3. If this block belongs to a repeating series, three options will be offered to you when hit **<delete>**:
+2. Click **delete**
+3. If this block belongs to a repeating series, three options will be offered to you when hit **delete**:
 -Only this one
 -Apply to this and all following blocks
 -Apply to all blocks in this repeat series

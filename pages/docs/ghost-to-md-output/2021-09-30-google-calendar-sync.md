@@ -26,13 +26,13 @@ tags: 11. Powerful tools
 1. **Setting > Calendar sync > + Link Google Calendar**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-28-at-17.29.20.png)
-2.  New window will pop up, click **<Sign in with Google>**
+2.  New window will pop up, click **Sign in with Google**
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-28-at-17.34.42.png)
 3.  Choose the Google account you would like to link
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-28-at-17.35.40.png)
-4.  Tick the box to authorize, then click the **<Continue>** button
+4.  Tick the box to authorize, then click the **Continue** button
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-28-at-17.36.54.png)
-5.  Select the staffs you would like to sync with Google Calendar, click **<Continue>**
+5.  Select the staffs you would like to sync with Google Calendar, click **Continue**
 
 Note: It will only show the name of the active and show on calendar staff. For the "show on calendar setting", go to **Setting > Staff > Pick one of your staff > Roll down and find the "Control" section**.
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-29-at-10.28.39.png)
@@ -42,9 +42,9 @@ Note: It will only show the name of the active and show on calendar staff. For t
 
 **Import**: The events created on these Google Calendars from the past 3 months to the next 2 years will be imported to MoeGo as blocks
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-29-at-10.27.19.png)
-7. Click **<Start>**, and go back to the MoeGo web page.
+7. Click **Start**, and go back to the MoeGo web page.
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-29-at-10.33.32.png)
-8. Once you go back to MoeGo web page, you can see the synced staff calendar. If you would like to add or delete the sync of your staff calendar, you can simply click **<Edit>**
+8. Once you go back to MoeGo web page, you can see the synced staff calendar. If you would like to add or delete the sync of your staff calendar, you can simply click **Edit**
 ![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-10.39.21.png)Synced staff calendars are MoeGo Staff Calendars that are synced to appear on a created Google Calendar.![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-10.41.10.png)
 Note: Only the staff who were selected as "Sho on calendar" will be available for Google Calendar sync. You can go to **Setting > Staff > Pick one of your staff > Control > Show on calendar**, and turn on the toggle to activate. 
 
@@ -80,7 +80,7 @@ Note: Add, edit, or delete the schedules in whether MoeGo and Google Calendar, w
 ![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-18.21.42.png)![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-18.24.18.png)Once disconnected, the staff calendar will be removed from your Google Calendar.![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-18.25.22.png)All the calendars that begin with "MoeGo-xxx" will disappear 
 # Setting
 
-You can go to the **<Role setting>** and control the authority of accessing the Google Calendar. 
+You can go to the **Role setting** and control the authority of accessing the Google Calendar. 
 
 **Setting > Staff > Pick one of the staff > Role setting > Powerful tool**
 ![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-18.32.07.png)![](__GHOST_URL__/content/images/2021/10/CleanShot-2021-10-09-at-18.29.39.png)

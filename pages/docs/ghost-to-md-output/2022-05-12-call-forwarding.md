@@ -16,10 +16,10 @@ Now we've even made one more step for the MoeGo phone number, supporting call se
 
 ## How to set up:
 
-1. Go to <**Settings**>
-2. Go to <**MoeGo Phone Number**>
-3. Turn on <**Call forwading**> and set the number
-4. Turn on <**Reply message**> and set the template
+1. Go to **Settings**
+2. Go to **MoeGo Phone Number**
+3. Turn on **Call forwading** and set the number
+4. Turn on **Reply message** and set the template
 
 ![](__GHOST_URL__/content/images/2022/05/call-forwarding-1.png)
 ## FAQ

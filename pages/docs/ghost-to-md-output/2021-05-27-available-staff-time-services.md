@@ -12,9 +12,9 @@ MoeGo online booking is the **most powerful **online booking tool for pet groomi
 
 ## Set up available staff
 
-1. Go to **<Online booking>** on the side menu bar
-2. Click **<Setting>**
-3. Click **<Availability>**
+1. Go to **Online booking** on the side menu bar
+2. Click **Setting**
+3. Click **Availability**
 4. You can enable/disable staff for online booking by checking/unchecking the checkbox before the staff names. When the staff is disabled for online booking, clients will not see the option for the disabled staff on the booking page.
 
 💡 **By default, all staff shown on the calendar are available for online booking**

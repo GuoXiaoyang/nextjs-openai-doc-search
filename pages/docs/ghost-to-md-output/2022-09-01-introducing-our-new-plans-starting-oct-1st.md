@@ -11,7 +11,7 @@ We’ve rebuilt MoeGo to ensure the highest standard of reliability. We innovate
 
 To reflect all of that added value and ensure that we can keep investing in innovation, we are excited to announce **the new plans** effective on **Oct 1, 2022.**
 
-📍 *<Scroll to the end to view the new plans>*
+📍 *Scroll to the end to view the new plans*
 
 The [previous plans](https://www.moego.pet/pricing) will be sunsetted starting Oct 1st 2022 at 00:00 PST. Here are details on what this means for customers on paid plans and users on the free version.
 

@@ -12,17 +12,17 @@ You can set different types of auto messages, reminders, and auto reply to meet 
 
 ##  Find the auto message section
 
-1. Go to **<Setting> **on the side menu
-2. Click **<Auto Message>**
-3. Under the auto message setting, you can <**turn on/off>** specific auto messages, and also <**edit>** the message templates.
+1. Go to **Setting** on the side menu
+2. Click **Auto Message**
+3. Under the auto message setting, you can **turn on/off** specific auto messages, and also **edit** the message templates.
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-14.17.16.png)Auto message settings
 ## Edit auto message template
 
 Auto messages are used to give your customers an update. Your confirmation is needed before sending an auto-message.
 
-1. Click on a message to <**edit>** it
-2. Inside the Edit message page, <**edit>** the text template
+1. Click on a message to **edit** it
+2. Inside the Edit message page, **edit** the text template
 3. There are saved variables you can add to the template. For example, if you use the variable "customer name", then it will automatically become the customer's name in a sent message. 
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-18-at-16.47.19.png)
@@ -42,8 +42,8 @@ There are four types of auto messages. All auto messages will need your permissi
 
 Reminders will be sent automatically when certain conditions are met.
 
-1. Switch the** <toggle>** under control to turn on or off a certain reminder
-2. Click on a message to <**edit>** it
+1. Switch the** toggle** under control to turn on or off a certain reminder
+2. Click on a message to **edit** it
 3. Under When to send, edit triggering conditions for sending a reminder
 
 💡 **To learn more about 3 types of appointment reminders, please click [here](__GHOST_URL__/appointment-reminder-1st-2nd/)**
@@ -52,8 +52,8 @@ Reminders will be sent automatically when certain conditions are met.
 
 Anyone who sends you a message will receive an auto-reply if you have turned it on.
 
-1. Under the Auto reply section, switch the <**toggle> **to turn on or off auto-reply.
-2. Click on a message to** <edit>** it
+1. Under the Auto reply section, switch the **toggle **to turn on or off auto-reply.
+2. Click on a message to** edit** it
 3. Edit the start date and end date to adjust auto reply's effective period.
 
 ![](__GHOST_URL__/content/images/2021/09/Screenshot-17.45.52.png)Set up auto-reply

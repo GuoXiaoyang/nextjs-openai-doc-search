@@ -11,7 +11,7 @@ Fully control for your employees, better management on your business
 # Enable staff login
 
 1. Go to **Setting > Staff**
-2. Switch to a staff card, scroll down to the **<Control>** section, turn on **<Enable staff login>**
+2. Switch to a staff card, scroll down to the **Control** section, turn on **Enable staff login**
 
 💡 If this is the first time enable staff login, you will need to share the invitation link for your staff to connect.
 ![](__GHOST_URL__/content/images/2021/05/staff_login.gif)

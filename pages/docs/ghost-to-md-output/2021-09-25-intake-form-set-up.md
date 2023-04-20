@@ -17,10 +17,10 @@ Simply share your Intake Form link, so your clients can fill it and you can save
 
 # How to access?
 
-1. Go to **<Intake form>** on the side-menu
-2. Click on **<Setting>** tab on the top-left corner
-3. Click on **<+Create new>**  on the top-right corner
-4. Once the form name is added, click on **<Add>**, the detail setting for "pet owner" and "pet" will be shown.
+1. Go to **Intake form** on the side-menu
+2. Click on **Setting** tab on the top-left corner
+3. Click on **+Create new**  on the top-right corner
+4. Once the form name is added, click on **Add**, the detail setting for "pet owner" and "pet" will be shown.
 5. Customize the intake form that suits your business!
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-15-at-10.56.59.png)![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-15-at-11.04.41.png)

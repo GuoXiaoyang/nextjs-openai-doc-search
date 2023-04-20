@@ -12,10 +12,10 @@ Worrying about no-shows? Our powerful reminder system will remind your customer 
 
 ## 1st unconfirmed appt reminder
 
-1. Go to **<Setting>** on the side menu bar
-2. Click **<Auto message>**
-3. Switch the** <toggle>** under control to turn on or off a certain reminder
-4. Click on a message to <**edit>** it
+1. Go to **Setting** on the side menu bar
+2. Click **Auto message**
+3. Switch the** toggle** under control to turn on or off a certain reminder
+4. Click on a message to **edit** it
 5. Under When to send, edit triggering conditions for sending a reminder
 
 ![](__GHOST_URL__/content/images/2021/08/Screenshot-19.07.37.png)![](__GHOST_URL__/content/images/2021/08/Screenshot-19.36.14.png)
@@ -35,10 +35,10 @@ The 3rd reminder is the more flexible version of a reminder. Unlike the unconfir
 
 The appointment reminder can be sent even when an appointment is already confirmed.  Accident happens and sometimes people need to change their schedule even they already have confirmed an appointment. So it never hurts to double-check at the last minute. The appointment reminder will do the trick.
 
-1. Go to **<Setting>** on the side menu bar
-2. Click **<Auto message>**
-3. Switch the** <toggle>** under control to turn on or off **Appointment reminder**
-4. Click on a message to <**edit>** it
+1. Go to **Setting** on the side menu bar
+2. Click **Auto message**
+3. Switch the** toggle** under control to turn on or off **Appointment reminder**
+4. Click on a message to **edit** it
 5. Under When to send, edit triggering conditions for sending a reminder
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-14.59.59.png)Edit appointment reminder

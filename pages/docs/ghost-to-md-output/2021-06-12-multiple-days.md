@@ -16,11 +16,11 @@ If you need to create **repeated appointments**, please click [here](__GHOST_URL
 
 ### Create multiple days appointments
 
-1. Click on** <Repeat>** to bring up the popup window
-2. Click **<Select multiple days>**
-3. Click the **<dates>** to select when you want to create the appointments
+1. Click on** Repeat** to bring up the popup window
+2. Click **Select multiple days**
+3. Click the **dates** to select when you want to create the appointments
 You can use the **arrow icon** to navigate through months
-4. Click **<Preview>** to see all the selected appointments
-5. Hit **<Book now>** to confirm the bookings
+4. Click **Preview** to see all the selected appointments
+5. Hit **Book now** to confirm the bookings
 
 ![](__GHOST_URL__/content/images/2021/06/repeat_button-2.png)![](__GHOST_URL__/content/images/2021/06/multiple_days-1.gif)

@@ -12,20 +12,20 @@ You can check clients' payment history and get receipts.
 
 # How to check the payment history of a client
 
-1. Go to **<Clients & pets>** section
+1. Go to **Clients & pets** section
 2. Select a client from the client list
-3. Click **<Payment history>**
+3. Click **Payment history**
 
 ![](__GHOST_URL__/content/images/2021/06/payment-history.png)
 # Check receipt
 
-Under the payment history page, click the **<Receipt>** button to see the receipt of the payment
+Under the payment history page, click the **Receipt** button to see the receipt of the payment
 ![](__GHOST_URL__/content/images/2021/06/receipt.png)
 # Refund
 
-1. Under the payment history page, click the **<Refund>**  button of a payment
+1. Under the payment history page, click the **Refund**  button of a payment
 2. Modify the amount and write a refund reason for it
-3. Click** <Refund>** to confirm. You will see the status, refund amount, and refund reason
+3. Click** Refund** to confirm. You will see the status, refund amount, and refund reason
 
 ![](__GHOST_URL__/content/images/2021/06/refund-1.png)
 

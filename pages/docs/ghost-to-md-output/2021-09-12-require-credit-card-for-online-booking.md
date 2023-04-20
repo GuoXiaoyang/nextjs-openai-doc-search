@@ -13,9 +13,9 @@ Protect against no-shows with a customized cancellation policy. You can require 
 ## How to turn on no-show protection
 
 1. Go to Online booking on the side menu bar
-2. Click **<Setting>**
-3. Click **<Payment>**
-4. Click the** <toggle>** to turn on no-show protection
+2. Click **Setting**
+3. Click **Payment**
+4. Click the** toggle** to turn on no-show protection
 
 ![](__GHOST_URL__/content/images/2021/09/_12.gif)
 You may edit your no-show policy in the text box

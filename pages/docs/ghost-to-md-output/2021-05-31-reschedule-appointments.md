@@ -15,14 +15,14 @@ There are two ways to reschedule an appointment
 1. **Long press** on an appointment card on the calendar
 2. **Hold** the mouse, drag and drop the appointment card to the expected time slot
 3. **Release** the mouse to confirm
-4. Hit** <OK>** to confirm the change
+4. Hit** OK** to confirm the change
 
 ![](__GHOST_URL__/content/images/2021/05/drag-and-drop-appt.gif)
 ## Edit an appointment
 
 1. Click an existing appointment and open an **Appointment detail** popup window
-2. Click **<Edit booking>** button
-3. Change the** <Date>** or **<time>** of the appointment
-4. Hit **<Save> **to update the change
+2. Click **Edit booking** button
+3. Change the** Date** or **time** of the appointment
+4. Hit **Save **to update the change
 
 ![](__GHOST_URL__/content/images/2021/05/edit-appt-time.gif)

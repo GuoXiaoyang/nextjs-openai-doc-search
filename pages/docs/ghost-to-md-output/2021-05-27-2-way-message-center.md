@@ -16,8 +16,8 @@ You can read customer's messages, chat with customers, send reminders, send digi
 
 ## Send messages
 
-1. Go to <Message> on the side menu bar. You can read your message history with customers here.
-2. Select a customer from the open chats or click the **<search icon> **to search for a client
+1. Go to Message on the side menu bar. You can read your message history with customers here.
+2. Select a customer from the open chats or click the **search icon **to search for a client
 3. Write a message and send it to the customer
 
 ![](__GHOST_URL__/content/images/2021/09/Screenshot-16.53.40.png)Message center
@@ -37,39 +37,39 @@ From the left to right, they are:
 ![](__GHOST_URL__/content/images/2021/09/Screenshot-16.41.46.png)Chat widget
 ### 1️⃣ How do I add an image
 
-1. Click on the first widget** <Add image>** in the chat widget
+1. Click on the first widget** Add image** in the chat widget
 2. Click on the upload box and select the picture you want to send
-3. Hit** <Send>** and send the image to your client!
+3. Hit** Send** and send the image to your client!
 
 ### 2️⃣ How do I add emojis
 
-1. Click on the second widget **<Add emoji>** in the chat widget
+1. Click on the second widget **Add emoji** in the chat widget
 2. Select the emojis you want to send
 3. Hit the emoji you want to add to your text!
 
 ### 3️⃣ How do I add digital agreements
 
-1. Click on the third widget **<Add digital agreements>** in the chat widget
+1. Click on the third widget **Add digital agreements** in the chat widget
 2. Select the agreement that you want to send to your client
 3. The agreement will appear as a link in your chatbox
 
 ### 4️⃣ How do I send upcoming appointments
 
-1. Click on the fourth widget **<Send upcoming appointments>** in the chat widget text field
-2. Hit **<Send>**
+1. Click on the fourth widget **Send upcoming appointments** in the chat widget text field
+2. Hit **Send**
 
 ![](__GHOST_URL__/content/images/2021/09/Send-upcoming-appointments-1.gif)Send upcoming appointments
 Your client can click the link to see their upcoming appointments:
 ![](__GHOST_URL__/content/images/2021/06/upcoming-appt-link.png)Upcoming appointments
 ### 5️⃣ How do I  send the online booking link:
 
-1. Click on the fifth widget **<Online Booking>** in the chat widget text field
-2. Hit **<Send>**
+1. Click on the fifth widget **Online Booking** in the chat widget text field
+2. Hit **Send**
 
 ### 6️⃣ How do I  send the intake form link:
 
-1. Click on the sixth widget **<Intake Form>** in the chat widget text field
-2. Hit **<Send>**
+1. Click on the sixth widget **Intake Form** in the chat widget text field
+2. Hit **Send**
 
 ## Use mass text
 

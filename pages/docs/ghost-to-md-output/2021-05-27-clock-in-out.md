@@ -12,10 +12,10 @@ The clock in/out feature enables you and your staff to keep track of daily worki
 
 ## Set up clock in and out time
 
-1. Go to **<Setting>** on the left menu bar
-2. Click **<Clock in/out>**
-3. Click the **<toggle> **next to enable clock in/outto turn it on or off
-4. Turn on the **<toggle> **next to require access code if you need employees to use an access code to clock in
+1. Go to **Setting** on the left menu bar
+2. Click **Clock in/out**
+3. Click the **toggle **next to enable clock in/outto turn it on or off
+4. Turn on the **toggle **next to require access code if you need employees to use an access code to clock in
 5.  You can set different access codes for different employees
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-18.01.13.png)Set clock in/out
@@ -23,11 +23,11 @@ The clock in/out feature enables you and your staff to keep track of daily worki
 
 1. **Clock in:**
 
-Click on **<Clock In/Out>** on the top menu bar, type in "access code" if you have it turned on, then click on **<Clock in>**
+Click on **Clock In/Out** on the top menu bar, type in "access code" if you have it turned on, then click on **Clock in**
 
 1. **Clock out:**
 
-Click on **<Clock In/Out>** on the top menu bar, type in "access code" if you have it turned on, then click on **<Clock out>**
+Click on **Clock In/Out** on the top menu bar, type in "access code" if you have it turned on, then click on **Clock out**
 ![](__GHOST_URL__/content/images/2021/09/_20-1.gif)
 ## Check attendance 
 

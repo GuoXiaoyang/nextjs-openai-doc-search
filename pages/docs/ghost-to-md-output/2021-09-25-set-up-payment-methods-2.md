@@ -23,16 +23,16 @@ There are 2 types of payment methods
 
 ## Customized payment methods
 
-1. Click **<Setting> **on the left menu bar
-2. Click **<Payment>**
-3. Click **<Add new payment method>**
-4. Don't forget to turn on the ** <toggle>** on the left to a payment method to enable it
+1. Click **Setting **on the left menu bar
+2. Click **Payment**
+3. Click **Add new payment method**
+4. Don't forget to turn on the ** toggle** on the left to a payment method to enable it
 
 ![](__GHOST_URL__/content/images/2021/06/Add_customized_payment.gif)Add customized payment methods
 ##  Turn on/off, and sort your payment methods
 
-1. Click **<toggle>** to turn on a payment method. Only turned-on methods will show up when taking payments.
-2. Click the **<hamburger icon>** and sort them into the order as you want them to present
+1. Click **toggle** to turn on a payment method. Only turned-on methods will show up when taking payments.
+2. Click the **hamburger icon** and sort them into the order as you want them to present
 3. After setting up, you will see them in order as you manage
 
 ![](__GHOST_URL__/content/images/2021/06/Switch_off_payment_method.gif)Sort your payment methods![](__GHOST_URL__/content/images/2021/06/payment-method-on-ticket.png)

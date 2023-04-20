@@ -16,9 +16,9 @@ For the past 1.0 version, only dogs and cats are available for selection, now we
 
 **How to set up the pet type?**
 
-1.  Go to **<Setting>** on the side-menu
-2. Click on **<Pet setting>** tab on the secondary side-menu
-3. Click on **<Pet type>** on the top selection bar
+1.  Go to **Setting** on the side-menu
+2. Click on **Pet setting** tab on the secondary side-menu
+3. Click on **Pet type** on the top selection bar
 4. Tick the pet types your business are available
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-10.33.01.png)
@@ -33,10 +33,10 @@ From the dropdown list, you can select either dogs only, cat only, or other anim
 
  Setting of the pet breed is available now!
 
-1.  Go to **<Setting>** on the side-menu
-2. Click on **<Pet setting>** tab on the secondary side-menu
-3. Click on **<Pet type>** on the top selection bar
-4. Click on **<Set breed>**
+1.  Go to **Setting** on the side-menu
+2. Click on **Pet setting** tab on the secondary side-menu
+3. Click on **Pet type** on the top selection bar
+4. Click on **Set breed**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-11.34.27.png)![](__GHOST_URL__/content/images/2021/09/_55.gif)
 For now, only "Dog" and "Cat" have a default breed setting list, but the other pet breed is customizable. 
@@ -51,13 +51,13 @@ Is it a shy one, a friendly one, or a nasty one? Give it a tag!
 
 **How to set up behavior?**
 
-1.  Go to **<Setting>** on the side-menu
-2. Click on **<Pet setting>** tab on the secondary side-menu
-3. Click on **<Behavior>** on the top-right selection bar
+1.  Go to **Setting** on the side-menu
+2. Click on **Pet setting** tab on the secondary side-menu
+3. Click on **Behavior** on the top-right selection bar
 4. Edit the pet behavior!
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-11.47.34.png)
-By clicking the **<+Add new behavior>**, new behavior can be adjusted. 
+By clicking the **+Add new behavior**, new behavior can be adjusted. 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-14.13.07.png)
 **How to use this feature?**
 
@@ -69,9 +69,9 @@ For you and the pet's health, it's better to know the vaccination situation of t
 
 **How to set up the pet vaccine?**
 
-1.  Go to **<Setting>** on the side-menu
-2. Click on **<Pet setting>** tab on the secondary side-menu
-3. Click on **<Pet vaccine>** on the top selection bar
+1.  Go to **Setting** on the side-menu
+2. Click on **Pet setting** tab on the secondary side-menu
+3. Click on **Pet vaccine** on the top selection bar
 4. Edit the pet vaccine!
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-14.37.35.png)
@@ -81,7 +81,7 @@ Once you have set up the pet vaccine, it can be chosen on every pet info page (e
 
 1. Open a pet profile
 2. Roll down and find the "Vaccinations" section
-3. Click on **<+Add vaccine>**, set up name, the expiration date of the vaccine
+3. Click on **+Add vaccine**, set up name, the expiration date of the vaccine
 4. Document uploading is available
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-22-at-14.58.23.png)

@@ -12,7 +12,7 @@ You can see all of your upcoming reminders and edit your reminder settings accor
 
 ### Check scheduled reminders
 
-1. Go to **<Auto reminders>** on the side menu bar
+1. Go to **Auto reminders** on the side menu bar
 2. Click one of the reminders group
 3. Check reminders status
 

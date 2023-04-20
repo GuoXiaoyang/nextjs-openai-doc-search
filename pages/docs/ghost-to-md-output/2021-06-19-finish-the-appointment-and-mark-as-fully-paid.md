@@ -10,17 +10,17 @@ Remember to mark an appointment as fully paid once it's done
 
 ---
 
-1. Once an appointment's services are finished, click **<check out>**
-2. In the pop-up screen, adjust discount and tips, pick a payment method, confirm payment amount and then click **<Take payment>**
-3. If you forget to click **<Take payment> **or need to do it later, no worries because you can do it anytime. Please go to appointment detail and click **<Take payment>**
+1. Once an appointment's services are finished, click **check out**
+2. In the pop-up screen, adjust discount and tips, pick a payment method, confirm payment amount and then click **Take payment**
+3. If you forget to click **Take payment** or need to do it later, no worries because you can do it anytime. Please go to appointment detail and click **Take payment**
 4. After paying all the amount due, you will be notified to **Finish the appointment and mark it as fully paid**
-5. Click **<Yes>** to mark it as fully paid
+5. Click **Yes** to mark it as fully paid
 
 ![](__GHOST_URL__/content/images/2021/09/Take-payment-and-finish-an-appointment.gif)
 You can still **edit** check in/out time, service, payment amounts after appointments were finished:
 
 1. Click an appointment
-2. Click <Invoice>
-3. Click <Edit Invoice>
+2. Click Invoice
+3. Click Edit Invoice
 
 Further reading: [Set up payment method](__GHOST_URL__/set-up-payment-methods-2/)

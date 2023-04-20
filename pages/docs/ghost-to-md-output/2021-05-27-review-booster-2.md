@@ -17,8 +17,8 @@ If your client replied negative number, we will send them a message (you can cus
 ![](__GHOST_URL__/content/images/2021/06/review-push-3.png)
 ### How to set up review booster
 
-1. Click on **<Review booster>** on the left side menu
-2. Click the **<Edit>** icon to customize your message. Make sure to include the tag 🙁1-2-3-4-5 😍 in the message.
+1. Click on **Review booster** on the left side menu
+2. Click the **Edit** icon to customize your message. Make sure to include the tag 🙁1-2-3-4-5 😍 in the message.
 3. Customize your reply for positive feedback.
 Fill in your business link of  Yelp/Facebook/Google
 Tap on the tags to insert them into the message box
@@ -35,7 +35,7 @@ Tap on the tags to insert them into the message box
 Customize your messages
 ### How to send a review push message 
 
-You can access the **<Ask Review>** button from
+You can access the **Ask Review** button from
 
 1. After you successfully charged your client (on the App only)
 2. Appointment detail page (The appointment has to be finished and paid)

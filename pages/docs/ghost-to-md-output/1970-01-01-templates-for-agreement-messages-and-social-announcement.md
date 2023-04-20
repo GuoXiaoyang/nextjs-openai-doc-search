@@ -56,22 +56,22 @@ Learn how to set up
 
 - ******Appointment Reminder******
 
-Good morning <customerName>! 
+Good morning customerName! 
 
-This is a friendly reminder your next appointment is scheduled for <Date> at <Time> with <storeName>. If you need to reschedule or cancel, please give at least 48 hours notice prior to the appointment to avoid a late cancellation fee.
+This is a friendly reminder your next appointment is scheduled for Date at Time with storeName. If you need to reschedule or cancel, please give at least 48 hours notice prior to the appointment to avoid a late cancellation fee.
 
-We can not wait to see <petName>! 
-Please <replyYconfirm>. Have a wonderful day! 
+We can not wait to see petName! 
+Please replyYconfirm. Have a wonderful day! 
 
-<storeName> 🐶❤️🐾
+storeName 🐶❤️🐾
 
 - ******Rebook Reminder******
 
-Hello <customerName>! 
+Hello customerName! 
 
-It has been almost <xxDays> since <petName>‘s last service. When can we book your next appointment?
+It has been almost xxDays since petName‘s last service. When can we book your next appointment?
 
-<storeName> 🐶❤️🐾
+storeName 🐶❤️🐾
 
 💡
 
@@ -87,7 +87,7 @@ Excited to announce that we start to take appointments online from DD/MM! 👏�
 
 If you’d like to book with me, click the online booking link, fill out the information and submit the request! Super easy and fast. 🙌🏼 🐶 🥰
 
-Ready to give your furkid a treatment? Book here 🐾🐾🐾 <online booking link>
+Ready to give your furkid a treatment? Book here 🐾🐾🐾 online booking link
 
 - **Send Marketing Campaigns **
 

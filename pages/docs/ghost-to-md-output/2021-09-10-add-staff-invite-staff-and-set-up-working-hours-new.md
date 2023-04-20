@@ -12,26 +12,26 @@ You can invite your staff to use MoeGo together. You can also set their working 
 
 # Add a new staff
 
-1. Go to **<Setting> **on the left menu bar
-2. Click **<Staff>**
-3. Click **<Add new staff>**
+1. Go to **Setting **on the left menu bar
+2. Click **Staff**
+3. Click **Add new staff**
 4. Enter staff name, hire date, and role
 5. A new staff account will be created
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.44.52.png)
 # Invite a new staff
 
-1. Once a new staff is created, go to the staff's page, scroll down, and **<Copy> **the invitation link. 
+1. Once a new staff is created, go to the staff's page, scroll down, and **Copy **the invitation link. 
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-21.58.35@2x.jpg)
 2.  Send the link to your staff
 
 ### Staff view
 
-1. Staff clicks the **<Accept> **from the invitation link
+1. Staff clicks the **Accept **from the invitation link
 
-- **<Sign up>** if the staff does not have MoeGo account 
-- **<Login>** if the staff has a MoeGo account
+- **Sign up** if the staff does not have MoeGo account 
+- **Login** if the staff has a MoeGo account
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-14-at-14.27.48.gif)
 2. Staff view of accessing MoeGowith **limit access**
@@ -46,7 +46,7 @@ For details, please click [here](__GHOST_URL__/access-control/)
 
 1. Pick a staff at the top of the page
 2. Move to the working hour section and edit working hours
-3. Click **<Closed>** and it will close the whole day schedule of a staff
+3. Click **Closed** and it will close the whole day schedule of a staff
 
 ![](__GHOST_URL__/content/images/2021/06/staff-working-hour-1.png)
 You can set breaks for your staff by adding blocks to their calendar. For details about how to create blocks, please click [here](__GHOST_URL__/block-time/).
@@ -55,12 +55,12 @@ You can set breaks for your staff by adding blocks to their calendar. For detail
 
 This is what your clients will see in online booking. For example, Even when staff is on duty on Monday, you can still close her Monday hours in online booking setting. So your clients will not see him/her upon booking.
 
-1. Go to **<Online booking> **on the left menu bar
-2. Click **<Availability>**
-3. Click **<Setting>**
-4. Under the Available staff section, click the** <Box>** next to staff to enable his/her online booking availability. 
+1. Go to **Online booking **on the left menu bar
+2. Click **Availability**
+3. Click **Setting**
+4. Under the Available staff section, click the** Box** next to staff to enable his/her online booking availability. 
 5. Move to the Available time section, pick a staff
-6. Click the** <Box>** next to a day to enable online booking for this day. You can adjust available times. 
-7. Click the **<+ icon>**  to set multiple working times in one day
+6. Click the** Box** next to a day to enable online booking for this day. You can adjust available times. 
+7. Click the **+ icon**  to set multiple working times in one day
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.33.24.png)

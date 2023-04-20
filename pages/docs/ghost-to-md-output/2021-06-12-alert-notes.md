@@ -15,14 +15,14 @@ In the old version, it's called **Notice**.
 # Add alert notes upon creating a new appointment
 
 1. At the appointment booking page, input alert notes under the alert notes section.
-2. Click **<Booking now>**, an appointment will be created along with notes
+2. Click **Booking now**, an appointment will be created along with notes
 
 ![](__GHOST_URL__/content/images/2021/06/add-notes.png)When creating/editing the ticket
 # Add alert notes to existing/finished appointments
 
-1. Go to **<Appointments> **
+1. Go to **Appointments **
 2. Click an existing/finished appointment
-3. Click **<Add alert notes>**
+3. Click **Add alert notes**
 
 ![](__GHOST_URL__/content/images/2021/06/add-notes-in-ticket-1.png)In the ticket detail
 **Further read:**

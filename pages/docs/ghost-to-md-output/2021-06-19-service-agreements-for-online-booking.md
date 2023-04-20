@@ -14,9 +14,9 @@ In this guide, you will learn how to use digital agreements in online booking. F
 
 ## Set service agreements for online booking
 
-1. Go to **<Online booking>** on the side menu bar
-2. Click** <Setting>**
-3. Click **<Service agreement>**
+1. Go to **Online booking** on the side menu bar
+2. Click** Setting**
+3. Click **Service agreement**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-18.11.03-1.png)
 Select the agreement that you want your clients to sign when booking online:

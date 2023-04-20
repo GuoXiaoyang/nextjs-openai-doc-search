@@ -14,22 +14,22 @@ Add an appointment manually, and you can customize its date, price, service, ass
 
 ## 1️⃣ Selected time - From the calendar
 
-1. Click on the **<Appointment>** section on the side menu
+1. Click on the **Appointment** section on the side menu
 2. Click on the open slots on the calendar
-3. Click **<Add>** to create a new appointment
+3. Click **Add** to create a new appointment
 
 ![](__GHOST_URL__/content/images/2021/06/new_appointment_-_calendar.gif)
 ## 2️⃣ Selected client - From the client detail
 
-1. Click on the **<Clients & Pets>** tab on the side menu
+1. Click on the **Clients & Pets** tab on the side menu
 2. Click on a client to enter the client detail page
-3. Hit **<+ New Booking>** button to create a new appointment for the client
+3. Hit **+ New Booking** button to create a new appointment for the client
 
 ![](__GHOST_URL__/content/images/2021/06/new_appointment_-_client.png)
 ## 3️⃣ Same as last time - From the appointment detail
 
-1. Click on an existing appointment and open an **<Appointment detail>** popup window
-2. Click the **<Book again>** button on the right side to book the exact same services as the selected appointment
+1. Click on an existing appointment and open an **Appointment detail** popup window
+2. Click the **Book again** button on the right side to book the exact same services as the selected appointment
 
 ![](__GHOST_URL__/content/images/2021/06/new_appointment_-_book_again.gif)
 Further reading:
@@ -47,15 +47,15 @@ Further reading:
 ![](__GHOST_URL__/content/images/2021/06/Select_client-1.gif)
 ## Select pets and services
 
-- Select a **<pet>**
-- Select a **<service>**
+- Select a **pet**
+- Select a **service**
 💡 There will be a Last service mark for your reference
-- Select an **<add-on>**
-- Adjust the **<Duration>** and **<Price>** if needed
+- Select an **add-on**
+- Adjust the **Duration** and **Price** if needed
 💡 You can save the duration and price for the pet
-- Select the **<Staff>** for the service
+- Select the **Staff** for the service
 💡 You can select different staffs for each pet in one ticket
-- Add an additional pet for the multi-pet family by clicking the **<+ Additional pet>** button
+- Add an additional pet for the multi-pet family by clicking the **+ Additional pet** button
 
 ![](__GHOST_URL__/content/images/2021/06/Select_petservices.gif)
 ## Date & time

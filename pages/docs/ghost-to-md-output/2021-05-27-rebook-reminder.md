@@ -17,26 +17,26 @@ MoeGo Rebook Reminder is here to help you.
 
 By default, the service frequency is 4 weeks.
 
-1. Go to **<Clients & pets>** on the side menu bar. And click on a client to check the client profile
-2. Click **<Client details>**
+1. Go to **Clients & pets** on the side menu bar. And click on a client to check the client profile
+2. Click **Client details**
 3. Go to grooming preference
 4. Set up preferred service frequency. By default, the service frequency is 4 weeks.
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-15.28.51.jpg)
 # Change default service frequency 
 
-1. Go to **<Setting>** on the side menu bar
-2. Click **<Business>**
+1. Go to **Setting** on the side menu bar
+2. Click **Business**
 3. Under the default settings section, you can edit the default grooming frequency. It will be applied to all clients.
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-15.29.51.jpg)
-Note: Click **<Apply to all>** will change “Preferred frequency” for ALL customers in your system to the default value. This action CANNOT be reversed. 
+Note: Click **Apply to all** will change “Preferred frequency” for ALL customers in your system to the default value. This action CANNOT be reversed. 
 
 # Set up rebook reminder
 
-1. Go to **<Setting>** on the side menu bar
-2. Click **<Auto message>**
-3. Turn on the **<toggle>** to enable rebook reminder
+1. Go to **Setting** on the side menu bar
+2. Click **Auto message**
+3. Turn on the **toggle** to enable rebook reminder
 4. Click on the message to edit it.
 
 For more info about auto-reminder, please click [here](__GHOST_URL__/appointment-reminder-1st-2nd/)
@@ -46,5 +46,5 @@ For more info about auto-reminder, please click [here](__GHOST_URL__/appointment
 After you have turned on the auto rebook reminder, you can check all upcoming reminders and recipients.
 
 1. Turn on rebook reminder
-2. Go to <auto reminder> on the side menu 
-3. Click <rebook reminder>
+2. Go to auto reminder on the side menu 
+3. Click rebook reminder

@@ -27,23 +27,23 @@ You can **check-in & out** for both pets all together from 1 ticket
 ![](__GHOST_URL__/content/images/2021/09/Screenshot-17.51.23.png)Check-in & out for both pets
 # How to set up
 
-1. Go to **<Appointments> **and create a new appointment
-2. **<Search>** for a client or **<+ Add new client>**
-3. Click the **<Select pet>** dropdown to select the first pet.
--click the <**Services>** dropdown under the pet to select the service for the pet
--click the <**Staff>** dropdown to pick the appropriate groomer
-4. Hit the **<+ Additional>** pet button under the Alert notes
-5. Click the **<Select pet>** dropdown to select the second pet.
--click the <**Services>** dropdown under the pet to select the service for the pet
--click the <**Staff>** dropdown to pick the appropriate groomer
-6. Hit **<Book now>** on the bottom-right corner
+1. Go to **Appointments **and create a new appointment
+2. **Search** for a client or **+ Add new client**
+3. Click the **Select pet** dropdown to select the first pet.
+-click the **Services** dropdown under the pet to select the service for the pet
+-click the **Staff** dropdown to pick the appropriate groomer
+4. Hit the **+ Additional** pet button under the Alert notes
+5. Click the **Select pet** dropdown to select the second pet.
+-click the **Services** dropdown under the pet to select the service for the pet
+-click the **Staff** dropdown to pick the appropriate groomer
+6. Hit **Book now** on the bottom-right corner
 7. Back to the calendar, you will see the ticket separated under each groomer!
 
 ![](__GHOST_URL__/content/images/2021/09/schedule-a-ticket-with-multiple-staff.gif)Schedule a ticket with multiple staff
 # Reschedule a ticket with multiple staff
 
-- Go to **<Appointment>**
+- Go to **Appointment**
 - **Drag & drop** an on the calendar view, it will change the start time for each staff separately
-- Click an appointment and then click **<Edit Booking>. **Change **<Date & time>**, it will change the start time for all staff accordingly
+- Click an appointment and then click **Edit Booking. **Change **Date & time**, it will change the start time for all staff accordingly
 
 ![](__GHOST_URL__/content/images/2021/09/Reschedule-a-ticket-with-multiple-staff.gif)Reschedule a ticket with multiple staff

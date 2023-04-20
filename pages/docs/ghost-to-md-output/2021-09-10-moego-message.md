@@ -17,8 +17,8 @@ You can see who and which channel the message was sent. No matter its system aut
 
 **Send messages**
 
-1. Go to **<Message>** on the side menu bar. You can read your message history with customers here.
-2. Select a customer from the open chats or click the **<search icon> **to search for a client
+1. Go to **Message** on the side menu bar. You can read your message history with customers here.
+2. Select a customer from the open chats or click the **search icon **to search for a client
 3. Write a message and send it to the customer
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-21.41.38-3.png)

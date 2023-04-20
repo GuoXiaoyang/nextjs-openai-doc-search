@@ -12,8 +12,8 @@ Whenever a customer books you through our online booking system, you can always 
 
 # How to set up online booking notifications
 
-1. Click on the **<Online booking>** icon on the left side menu
-2. Go to **<Setting> - <Notification>**
+1. Click on the **Online booking** icon on the left side menu
+2. Go to **Setting - Notification**
 3. Select message type (email and/or text) for yourself and your customers
 4. Customize text and email templates
 
@@ -28,7 +28,7 @@ Whenever a customer books you through our online booking system, you can always 
 # Check notifications
 
 1. Open MoeGo
-2. Click the **<bell icon>** on the top menu bar
+2. Click the **bell icon** on the top menu bar
 3. A list of notifications will show up
 4. Click one to read the details.
 

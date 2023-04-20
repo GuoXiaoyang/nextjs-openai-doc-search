@@ -12,11 +12,11 @@ Total sales (expected revenue includes tips, taxes) by appointments, with paymen
 
 # Appointments sales report
 
-1. Go to **<Report>** on the side-menu
-2. Click **<Reports>** tab on the top menu
-3. Click **<Sales>** tab on the side-menu
-4. Choose <**Sales and appointments report>**
-5. Choose the duration you want to know and click **<Run report>**
+1. Go to **Report** on the side-menu
+2. Click **Reports** tab on the top menu
+3. Click **Sales** tab on the side-menu
+4. Choose **Sales and appointments report**
+5. Choose the duration you want to know and click **Run report**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-17-at-14.55.48.png)![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-17-at-15.09.53.gif)
 ## Export the data document
