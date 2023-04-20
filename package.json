@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "build-with-embeddings": "pnpm run embeddings && next build",
+    "build": "pnpm run embeddings && next build",
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write \"./**/*.{js,jsx,ts,tsx,css,md,json}\"",
