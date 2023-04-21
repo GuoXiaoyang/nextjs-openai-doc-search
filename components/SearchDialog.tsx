@@ -194,7 +194,7 @@ export function SearchDialog() {
         </kbd>{' '}
       </button>
       <Dialog open={open}>
-        <DialogContent className="sm:max-w-[850px] text-black">
+        <DialogContent className="sm:max-w-[850px] text-black max-h-[calc(100vh-20px)] overflow-y-auto">
           <DialogHeader>
             <DialogTitle>MoeGo Wiki Search</DialogTitle>
             <DialogDescription>
