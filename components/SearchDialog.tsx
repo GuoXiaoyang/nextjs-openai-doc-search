@@ -275,10 +275,10 @@ export function SearchDialog() {
                   rounded border border-slate-200 dark:border-slate-600
                   transition-colors"
                   onClick={(_) =>
-                    setSearch('Create a table called profiles with fields id, name, email')
+                    setSearch('How to finish an appointment')
                   }
                 >
-                  Create a table called profiles with fields id, name, email
+                  How to finish an appointment
                 </button>
               </div>
             </div>
