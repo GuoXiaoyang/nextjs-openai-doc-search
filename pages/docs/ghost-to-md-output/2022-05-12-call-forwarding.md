@@ -1,8 +1,8 @@
 ---
-title: How does the MoeGo phone number call work?
+title: "Call-forward & Auto reply: How does MoeGo phone number work?"
 slug: call-forwarding
 date_published: 2022-05-12T09:23:11.000Z
-date_updated: 2022-05-13T03:54:05.000Z
+date_updated: 2024-03-28T07:01:03.000Z
 tags: What's new in MoeGo
 ---
 
@@ -16,10 +16,10 @@ Now we've even made one more step for the MoeGo phone number, supporting call se
 
 ## How to set up:
 
-1. Go to **Settings**
-2. Go to **MoeGo Phone Number**
-3. Turn on **Call forwading** and set the number
-4. Turn on **Reply message** and set the template
+1. Go to <**Settings**>
+2. Go to <**MoeGo Phone Number**>
+3. Turn on <**Call forwading**> and set the number
+4. Turn on <**Reply message**> and set the template
 
 ![](__GHOST_URL__/content/images/2022/05/call-forwarding-1.png)
 ## FAQ
@@ -35,6 +35,10 @@ Yes, the MoeGo phone number is available in the US, Canada, UK, and Australia.
 **3. Do I need to set up the reply message as well?**
 
 We recommend you set up the auto-reply. Make sure to include your online booking or intake form link in the auto-reply, so your customer can self-help! 
+
+1. **How long will the forwarded call last?**
+
+The forwarded call will end after 5 minutes.
 
 ## How to get started
 

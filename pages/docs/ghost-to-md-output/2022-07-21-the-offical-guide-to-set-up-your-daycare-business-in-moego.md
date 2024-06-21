@@ -3,7 +3,7 @@ title: Set up your daycare business in MoeGo
 slug: the-offical-guide-to-set-up-your-daycare-business-in-moego
 date_published: 2022-07-21T08:06:03.000Z
 date_updated: 2022-07-24T03:29:20.000Z
-tags: 13. Blog
+tags: Blog
 ---
 
 Follow these 7 steps to set up MoeGo and best serve your daycare business needs. Whether you run a daycare business, or a grooming shop offering daycare options, you can set up MoeGo with the flexibility and reliability needed to streamline your kennel management.

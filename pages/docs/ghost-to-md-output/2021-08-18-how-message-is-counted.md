@@ -2,8 +2,8 @@
 title: How message is counted
 slug: how-message-is-counted
 date_published: 2021-08-17T18:06:04.000Z
-date_updated: 2021-09-24T10:50:50.000Z
-tags: 04. Messages
+date_updated: 2024-02-16T23:08:04.000Z
+tags: Messages
 ---
 
 # How message is counted?

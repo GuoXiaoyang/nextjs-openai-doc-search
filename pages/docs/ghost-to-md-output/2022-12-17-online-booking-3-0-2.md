@@ -2,7 +2,8 @@
 title: Online Booking 3.0
 slug: online-booking-3-0-2
 date_published: 2022-12-16T18:28:14.000Z
-date_updated: 2022-12-16T18:28:14.000Z
+date_updated: 2023-11-10T08:08:12.000Z
+tags: #nicole
 ---
 
 Online booking has already proven to elevate the customer experience but the newest update will take it to another level with:

@@ -2,7 +2,8 @@
 title: Staff Shift Management
 slug: staff-shift-management
 date_published: 2023-03-10T15:55:56.000Z
-date_updated: 2023-03-10T15:55:56.000Z
+date_updated: 2023-07-20T04:19:21.000Z
+tags: #nicole
 ---
 
 Not all employees in your business are on the same set schedule, and with the new Staff Shift Management feature, you can now set various staff working schedules. 

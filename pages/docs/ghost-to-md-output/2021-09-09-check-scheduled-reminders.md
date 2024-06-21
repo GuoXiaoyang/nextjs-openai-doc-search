@@ -2,8 +2,8 @@
 title: Check scheduled reminders
 slug: check-scheduled-reminders
 date_published: 2021-09-09T09:53:12.000Z
-date_updated: 2021-09-24T10:50:24.000Z
-tags: 06. Reminders
+date_updated: 2024-02-16T23:39:41.000Z
+tags: Reminders
 ---
 
 You can see all of your upcoming reminders and edit your reminder settings accordingly
@@ -12,7 +12,7 @@ You can see all of your upcoming reminders and edit your reminder settings accor
 
 ### Check scheduled reminders
 
-1. Go to **Auto reminders** on the side menu bar
+1. Go to **<Auto reminders>** on the side menu bar
 2. Click one of the reminders group
 3. Check reminders status
 

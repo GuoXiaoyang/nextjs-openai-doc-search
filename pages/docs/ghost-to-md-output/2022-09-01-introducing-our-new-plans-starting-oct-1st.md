@@ -2,7 +2,7 @@
 title: Introducing our new plans starting Oct 1st
 slug: introducing-our-new-plans-starting-oct-1st
 date_published: 2022-09-01T07:14:02.000Z
-date_updated: 2022-09-23T17:00:09.000Z
+date_updated: 2024-02-02T06:30:38.000Z
 ---
 
 Just like your mission to provide the highest quality service to your clients and pets, our top priority is to provide you with the **industry-leading platform.**
@@ -11,7 +11,7 @@ We’ve rebuilt MoeGo to ensure the highest standard of reliability. We innovate
 
 To reflect all of that added value and ensure that we can keep investing in innovation, we are excited to announce **the new plans** effective on **Oct 1, 2022.**
 
-📍 *Scroll to the end to view the new plans*
+📍 *<Scroll to the end to view the new plans>*
 
 The [previous plans](https://www.moego.pet/pricing) will be sunsetted starting Oct 1st 2022 at 00:00 PST. Here are details on what this means for customers on paid plans and users on the free version.
 
@@ -23,14 +23,13 @@ First off, we appreciate your love and support to us over the years. We will be 
 - **Upgrade / Downgrade**: Since the [previous plans](https://www.moego.pet/pricing) will be sunsetted when the new plans are launched, you will not be able to upgrade or downgrade from any of the previous plans starting Oct 1st. So if you want to secure one of the previous plans, including price and features, please do so before Oct 1st.
 - **Features:** You will be able to access new updates and improvements on features included in your plan. For any brand new product features, we will be sure to let you know in advance which plan they’ll be in.
 - **Cancellation**: Once your grandfathered subscription plan is cancelled, either due to voluntary cancellation or failed payment, the grandfathered status will be lost due to the sunsetting of previous plans.
-- **Expansion**: You will also be grandfathered into the previous pricing for adding new locations to your account as your business expands.
 
 ### Users on free version
 
 - If you are considering upgrading to one of our [paid plans](https://www.moego.pet/pricing) anytime soon, it’s recommended to upgrade before Oct 1st to lock in a grandfathered plan. 
 - Some features will no longer be included in the free version starting Oct 1st, including but not limited to creating repeat appointments, appointment waitlist, and Google calendar sync. We appreciate your trust to use MoeGo and we encourage you to continue using these features and more with the paid plans.
 
-For more info, check out our **[New Plans FAQ](__GHOST_URL__/new-plans-faq/)**.
+For more info, check out our [**New Plans FAQ**](__GHOST_URL__/new-plans-faq/).
 
 ### Introducing our new plans!
 ![](__GHOST_URL__/content/images/2022/09/Mobile-5.png)New Plans for Mobile Grooming![](__GHOST_URL__/content/images/2022/09/Salon-5.png)New Plans for Grooming Salons

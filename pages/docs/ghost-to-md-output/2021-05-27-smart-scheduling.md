@@ -2,8 +2,8 @@
 title: Smart scheduling 🎨
 slug: smart-scheduling
 date_published: 2021-05-27T10:18:29.000Z
-date_updated: 2022-04-08T02:07:43.000Z
-tags: #12. 🚗 Mobile grooming, 01. Basic feature quick walkthrough
+date_updated: 2024-02-03T04:28:15.000Z
+tags: 01. Basic feature quick walkthrough, Mobile Grooming
 draft: true
 ---
 
@@ -15,9 +15,9 @@ Smart scheduling is one of the most powerful features in MoeGo, you can add a ne
 
 # Smart scheduling for new client
 
-1. **Put in address** for the new client
-2. Select estimated **Service duration**
-3. Click on **Check availability**
+1. **<Put in address>** for the new client
+2. Select estimated **<Service duration>**
+3. Click on **<Check availability>**
 
 MoeGo Smart Scheduling algorithm will come up the available slots that are within your preferred maximum driving distance and maximum driving time. 😉
 
@@ -25,9 +25,9 @@ MoeGo Smart Scheduling algorithm will come up the available slots that are withi
 ![](__GHOST_URL__/content/images/2021/05/TutorialMoeGo_Smart_scheduling_for_new_clients.gif)Smart scheduling for new client
 # Smart scheduling for existing client
 
-1. Click on **Select time** for a new appointment
-2. Select **Smart scheduling**
-3. Optional: select **Start date All staff/specific staff**
+1. Click on **<Select time>** for a new appointment
+2. Select **<Smart scheduling>**
+3. Optional: select **<Start date> <All staff/specific staff>**
 
 MoeGo Smart Scheduling algorithm will come up the available slots that are within your preferred maximum driving distance and maximum driving time. 😉
 
@@ -42,8 +42,8 @@ MoeGo Smart Scheduling algorithm will come up the available slots that are withi
 ![](https://downloads.intercomcdn.com/i/o/31589831/f62c64f37040459de99771ad/add+new5+copy.png)
 ## How to set up
 
-- Click on **Settings**
-- Click on **Smart scheduling**
+- Click on **<Settings>**
+- Click on **<Smart scheduling>**
 - Set up **Maximum Driving Distance** and **Maximum Driving Time**
 - Optional: set up **Start Location **
 

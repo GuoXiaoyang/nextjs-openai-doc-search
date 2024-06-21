@@ -3,7 +3,7 @@ title: Mobile grooming settings for online booking (draft) 👨‍💻
 slug: mobile-grooming-online-booking
 date_published: 2021-09-12T08:10:43.000Z
 date_updated: 2021-09-13T03:05:23.000Z
-tags: 07. Online booking
+tags: Online booking
 draft: true
 ---
 

@@ -2,7 +2,7 @@
 title: "MoeGo Spotlight July 2022: Jessica Cabello"
 slug: moego-spotlight
 date_published: 2022-08-01T12:07:42.000Z
-date_updated: 2022-08-01T12:07:42.000Z
+date_updated: 2023-12-26T18:20:41.000Z
 ---
 
 💡

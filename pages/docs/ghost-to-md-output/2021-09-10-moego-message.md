@@ -2,8 +2,8 @@
 title: MoeGo Message Center
 slug: moego-message
 date_published: 2021-09-10T12:04:00.000Z
-date_updated: 2022-10-21T02:43:07.000Z
-tags: 04. Messages
+date_updated: 2023-12-28T00:32:36.000Z
+tags: Messages
 ---
 
 ![](__GHOST_URL__/content/images/2021/09/sms.png)
@@ -17,8 +17,8 @@ You can see who and which channel the message was sent. No matter its system aut
 
 **Send messages**
 
-1. Go to **Message** on the side menu bar. You can read your message history with customers here.
-2. Select a customer from the open chats or click the **search icon **to search for a client
+1. Go to **<Message>** on the side menu bar. You can read your message history with customers here.
+2. Select a customer from the open chats or click the **<search icon> **to search for a client
 3. Write a message and send it to the customer
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-21.41.38-3.png)
@@ -40,6 +40,34 @@ Here are what we have right now, feel free to reach out if you have a brilliant 
 6. Send intake form link
 
 ![](__GHOST_URL__/content/images/2021/09/Send-upcoming-appointments-1-1.gif)
+## Saved Replies 
+
+With the Saved Replies feature in Message Center, you can flexibly customize and save replies for common scenarios and questions from customers – including opening hours, greeting messages,  agreement signing, and more!
+
+### How to Create, Edit, and Use Saved Replies in Chat Box 
+
+1. Find the **< Saved Replies >** icon in the rightmost spot of the toolbar.
+2. You can create, edit, and search for a reply in this side panel. 
+3. After choosing a saved reply, you can also continue to edit it as you need in the text box before sending it to the client.
+
+0:00
+
+                            /0:15
+1×
+
+### How to Create, Edit, and Use Saved Replies in Mass Text 
+
+You can also create, edit, delete, and use Saved Replies in your [Mass Text](__GHOST_URL__/mass-text/) feature. 
+
+1. Go to **Message Center > Mass Text**
+2. On the **< Select clients> **page, filter and choose the group of clients you'd like to send the message.
+3. Click **< Next > **to enter the **< Send mass text >** page, where you can find the **< Saved Replies >** icon in the rightmost spot of the text box toolbar.
+
+0:00
+
+                            /0:16
+1×
+
 ## Manage priority chats 
 
 **Star mark chat**

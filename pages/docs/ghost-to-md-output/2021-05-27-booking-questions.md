@@ -1,61 +1,72 @@
 ---
-title: Customize booking questions
+title: Customize online booking questions for pets and pet parents
 slug: booking-questions
 date_published: 2021-05-27T10:05:23.000Z
-date_updated: 2021-09-24T10:55:14.000Z
-tags: 07. Online booking
+date_updated: 2024-03-08T22:35:14.000Z
+tags: Online booking
 ---
 
-MoeGo online booking enables you to customize your own **booking questions****for pets and for pet owners.**
+MoeGo online booking enables you to customize your own **booking questions****for pets and pet parents.**
 
 ---
 
-## How to access booking questions
+## Set up pet type and client type preference
 
-1. Go to **Online booking** on the side menu
-2. Click **Setting**
-3. Click **Booking questions**
+You can choose what pet type can be accepted at **Online Booking > Settings > Pet >Preference > Select acceptable pet types.**
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.11.22@2x.png)
+You can choose which client types are eligible for online booking at **Online Booking > Settings > Client >Preference > Select acceptable client types.**
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.12.30@2x.png)
+## Set up booking questions for pets
 
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.20.42.png)Online booking questions
-## Customize questions for pet owners
+### 1) Choose the standard questions for pets
 
-1. Click **Add question ** to add a new question. 
+1. Go to **<Online booking>** on the side menu
+2. Click **<Settings>**
+3. Click **<Pet>**
+4. Tick the question from the question list on the left if you want the questions to be shown on the online booking process.
+5. Tick the **< Required > **box if you want this answer to be a required-to-answer question.
+6. Click <**Update Pet Settings**> to save the changes.
 
-There are five types of questions: 
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-07.58.13.gif)
+Additionally, you can set the maximum weight of pets your business can take, upload coat-type references for your clients, and require specific vaccines by clicking the extended option on the corresponding type of questions. 
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-07.48.02-1.gif)
+### 2) Customize questions for pets
+
+1. Scroll down and click **< Add custom question >** to add a new question. 
+
+There are five types of questions you can set up for pet questions:
 
 - Short text answer 
 - Long text answer
-- Drop down
+- Dropdown
 - Radio buttons
-- Check boxes
+- Checkboxes
 
-2. Click **preview** to see what your questions will look like on the actual online booking form.
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.00.48.gif)
+1. Click **<edit icon>** to edit an existing question, or click the cross icon to remove this question. Please note the default questions for pets, which include Pet Type, Pet name, and Pet Breed, can't be edited or removed.
 
-3. Click **edit icon** to edit an existing question or click delete icon to delete. Please note you can't edit or delete a default question.
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.02.04.gif)
+1. Click** <hamburger icon> **and drag it to change the order of a question. Changing the order of questions on this page will also change orders in the actual online booking process.
 
-4. Click **hamburger icon** and drag it to change the order of a question. Change order of questions on this page will also change orders in an actual online booking form.
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-15.45.57.png)Pet owner questions
-## Customize questions for pets 
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.03.13-3.gif)
+1. Click <**Update Pet Settings**> to save the changes.
 
-Add/edit pets question is exactly the same as add/edit pet owern questions.
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-15.50.29.png)Pet questions
-**Example 1:**
+## Set up booking questions for pet parents (clients)
 
-If you want to get a pet image when a customer submits a booking, click the **box** next to pet image  
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-15.58.55.png)pet image
-**Example 2: **
+1. Go to **<Online booking>** on the side menu.
+2. Click **<Settings>**
+3. Click **<Client>**
+4. Tick the question from the question list on the left if you want the questions to be shown on the online booking process.
+5. Tick the **< Required > **box if you want this answer to be a required-to-answer question.
+6. Click <**Update Client Settings**> to save the changes.
 
-If you want to get a pet's vaccine info when a customer submits a booking, click the **box** next to  vaccine
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.01.43.png)pet vaccine
-*** 💡This is where your questions show on your client booking page.***
-![](https://downloads.intercomcdn.com/i/o/183409349/2e236faf22e08b860ccb2172/Screen+Shot+2020-02-09+at+10.58.11+PM.png)
-## Where is the information saved
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-08.07.18.gif)
+Add/edit pet parents' questions are exactly the same as add/edit pet questions.
 
-1. The system default questions for the pet owners and pets will be saved to each field accordingly. For example, the name, email, image, vaccine, behavior, etc. 
-2. Your customized questions will be saved as "**Notes"** in the client profile. The customized questions for pet owners will be saved **Client note**; the customized questions for pets will be saved to **Pet note**
+## Where is the information saved?
 
-![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.18.09.png)client note![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-13-at-16.19.38.png)pet note
+1. The system default questions for the pet parents and pets will be saved to each field accordingly. For example, the name, email,  vaccine, behavior, etc. 
+2. Your customized questions will be saved as "**Notes"** in the client profile. The customized questions for pet owners will be saved in **Client details > Client note**; the customized questions for pets will be saved in **Pets > Pet note.**
 
-Feel free to try it out yourself from our [booking demo page](https://booking.moego.pet/go/?name=CrazyCutePetSpa)
-
-One of our partner's [intake form](https://form.moego.pet/go/form?formId=af73f6b72edde350d165b1de81668ecf ), we think the questions should be an inspiration for you
+![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-07.35.10@2x.png)![](__GHOST_URL__/content/images/2024/03/CleanShot-2024-03-07-at-07.36.32@2x.png)
+Feel free to try it out yourself from our [booking demo page](https://booking.moego.pet/go/?name=CrazyCutePetSpa).

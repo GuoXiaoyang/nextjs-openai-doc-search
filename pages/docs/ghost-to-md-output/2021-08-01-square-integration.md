@@ -3,7 +3,7 @@ title: Square integration 🎨
 slug: square-integration
 date_published: 2021-08-01T10:42:00.000Z
 date_updated: 2021-10-14T02:32:38.000Z
-tags: #12. Integration
+tags: Integration
 ---
 
 Square is our credit card processing partner.  You can process MoeGo payments through Square's terminal or reader.  

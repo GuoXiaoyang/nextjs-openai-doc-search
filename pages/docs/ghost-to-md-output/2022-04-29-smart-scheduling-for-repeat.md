@@ -2,15 +2,16 @@
 title: MoeGo Smart Schedule for Repeat Appointment
 slug: smart-scheduling-for-repeat
 date_published: 2022-04-29T10:44:43.000Z
-date_updated: 2022-05-09T09:35:23.000Z
+date_updated: 2023-12-19T12:55:44.000Z
 tags: What's new in MoeGo
 ---
 
 We're excited to announce a new feature that makes scheduling appointments incredibly easier and faster than ever before. A revolutionary way to book your recurring clients!
 
 0:00
-/
-1&#215;
+
+                            /0:20
+1×
 
 Booking recurring clients now can be faster and easier than ever before. With MoeGo Smart Schedule for Repeat Appointment, with just 1 click, you can have all future recurring appointments set in a place with no conflict, and even better, with minimum driving distance considered.
 
@@ -20,17 +21,33 @@ With the traditional repeat setting, it creates all future appointments on the s
 
 MoeGo Smart Schedule for Repeat Appointment helps you auto-select the closest available date to avoid conflict with minimal driving.
 
-## **See how it works:**
+## How it works
 
-1. Select **client frequency**
-2. Set up **# of repeats**
-3. Set up “**closest available date**” (how flexible your clients can be)
+To use the Smart Scheduling for Repeat Appointment, please go to MoeGo app.
 
+- Choose the date you want to add the first appointment of the repeated series and click **< Add >** to a chosen time slot.
+- Choose the client, pet, service, and preferred groomer from the appointment setting. Scroll down and click **< Repeat appointment >.**
+- From "Advanced", choose **< Repeat with Smart Scheduling >**.
+
+![](__GHOST_URL__/content/images/2023/08/CleanShot-2023-08-29-at-18.23.22.png)
+- Set up  **Repeat typ**e and **frequency.**
+- Set up **Starting dates** and ending on **"after # times of repeats".**
+- Turn on **Smart scheduling**.
+- Set up "**closest available date"** (how flexible your clients can be).
+
+![](__GHOST_URL__/content/images/2023/08/CleanShot-2023-08-29-at-18.35.47.png)
+- From the preview repeat dates, you can see the whole optimized list. If you want to make adjustments to any of the appointments listed, just click the appointment and drag and drop on the calendar to adjust the time slot.
+- Click **< Confirm >** after you make the adjustment.
+- Click **< Create appointment >** to create the repeated appointments.
+
+![](__GHOST_URL__/content/images/2023/08/CleanShot-2023-08-29-at-18.39.56.png)
 Woohoo! All appointments are magically placed in the right time slots without conflict and with minimal driving distance.
 
-‌‌Use cases
-
 If most of your regulars are flexible as long as they stay on the right frequency, MoeGo Smart Schedule for Repeat Appointments will be your best help!
+
+## Video guide
+
+Here is a video guide on how to use Smart Scheduling for repeat appointments:
 
 ## **What they say**
 
@@ -46,7 +63,7 @@ If most of your regulars are flexible as long as they stay on the right frequenc
 
 Yes! For mobile grooming, it helps you avoid conflict and consider the minimum driving distance.
 
-For salon scheduling, it helps you auto avoid conflict.
+For salon scheduling, it helps you auto-avoid conflict.
 
 **2. Can I change the time if I don’t prefer the suggested result?**
 

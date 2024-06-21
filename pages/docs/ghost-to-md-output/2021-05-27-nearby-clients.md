@@ -1,29 +1,31 @@
 ---
-title: Nearby clients
+title: Nearby Clients On Map View
 slug: nearby-clients
 date_published: 2021-05-27T10:19:30.000Z
-date_updated: 2022-06-30T10:19:52.000Z
-tags: #12. 🚗 Mobile grooming
+date_updated: 2024-03-29T08:37:06.000Z
+tags: #12. 🚗 Mobile grooming, Mobile Grooming, #Mobile grooming
 ---
 
-See all your nearby clients on the map, fill in open schedules, reduce no-shows
+See all your nearby clients on the map, and instantly locate nearby clients who are in need of your grooming expertise.
+
+You can identify areas with high demands and tailor your availability accordingly.
+
+# How to access
+
+## Step 1: Tap on the search button on map view
+
+It will default to your current location while the pins on the map are the locations of the nearby clients. 
+![](__GHOST_URL__/content/images/2023/08/Frame-427319994-3.png)
+## Step 2: Adjust the area and set up the filter
+
+To view all clients on the map view, **select "all". **You also can adjust the area by **inputting another location on the search bar** and **clicking on the radius list to adjust the range**.
+
+You can click on **< Filter >** to filter out the clients that meet your needs. 
+![](__GHOST_URL__/content/images/2023/08/Frame-427319995-2.png)
+## Step 3: Find nearby clients and fill in open slots
+
+Click on the pins to jump to appointment details and contact clients right away. Schedule an appointment a breeze!
 
 ---
 
-# How to access?
-
-1. Tap on the Search button on the map view
-
-![](__GHOST_URL__/content/images/2021/09/search.png)
-1. Adjust the range base on the chosen location (default is your current location)
-
-![](__GHOST_URL__/content/images/2021/09/neraby-clients-3.png)update to the new version
-1. Set up filter by tag or by category
-
-![](__GHOST_URL__/content/images/2021/09/filter.png)
-Note: Client tag can be edited in the **customer profile page** or in the **setting for business.**
-
-1. Click search and find the nearby customers!
-
-![](__GHOST_URL__/content/images/2021/09/_45.gif)
-The goal of this Nearby feature is to help you find out who you can contact to fill in the open schedules
+The MoeGo team is always here 24/7 for you if you have any further questions.

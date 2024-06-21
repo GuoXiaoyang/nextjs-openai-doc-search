@@ -2,7 +2,7 @@
 title: Customer Success Associate
 slug: customer-success-associate
 date_published: 2022-09-15T15:19:47.000Z
-date_updated: 2022-09-15T15:24:34.000Z
+date_updated: 2024-01-08T08:18:18.000Z
 ---
 
 ## Our Mission:

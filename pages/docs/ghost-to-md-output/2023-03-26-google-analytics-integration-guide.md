@@ -2,11 +2,13 @@
 title: Google Analytics Integration Guide
 slug: google-analytics-integration-guide
 date_published: 2023-03-25T23:59:21.000Z
-date_updated: 2023-03-25T23:59:21.000Z
-tags: 07. Online booking
+date_updated: 2024-02-20T17:37:58.000Z
+tags: Online booking, Integration
 ---
 
-### Get your MEASUREMENT ID from Google analytics
+**Learn how to explore your online booking conversion by setting up Google Analytics integration.**
+![](__GHOST_URL__/content/images/2023/04/image--16-.png)
+## Step 1: Get your MEASUREMENT ID from Google Analytics
 
 GA4 for example:
 
@@ -17,16 +19,19 @@ Create a new property for MoeGo online booking(or you can add booking.moego.pet 
 3. Copy MEASUREMENT ID
 
 0:00
-/
-1&#215;
 
-## Config it into MoeGo online booking settings
+                            /0:30
+1×
+
+## Step 2: Config it into MoeGo online booking settings
 
 Paste your MEASUREMENT ID into Online booking settings:
 ![](__GHOST_URL__/content/images/2023/03/fe3d9137-b2bf-4efe-a9de-8e371785dc27.png)
-# Set up your report
+## Step 3: Set up your report
 
-You can explore and set up analytics report based on data collected by your GA ID.
+You can explore and set up analytics report based on data collected by your GA ID. It might take 1 to 2 days before the data show up in your GA report.
+
+(Please note Google Analytics might not track traffic data correctly with embedded iframe. Please let your clients book through MoeGo online booking page directly.)
 
 Let’s take funnel report by page path for example.
 
@@ -43,5 +48,6 @@ Select time - `/ol/time`
 Submit booking - `/ol/appointment/submitted`
 
 0:00
-/
-1&#215;
+
+                            /0:32
+1×

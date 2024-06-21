@@ -2,8 +2,9 @@
 title: Require credit card for online booking(no show protection)
 slug: require-credit-card-for-online-booking
 date_published: 2021-09-12T08:12:31.000Z
-date_updated: 2021-09-24T10:49:49.000Z
-tags: 07. Online booking
+date_updated: 2024-03-08T06:12:10.000Z
+tags: Online booking
+draft: true
 ---
 
 Protect against no-shows with a customized cancellation policy. You can require clients to add their payment cards when requesting an appointment with you online. If your client doesn’t show up or cancels outside of your cancellation window, you can choose to enforce your cancellation policy.
@@ -13,9 +14,9 @@ Protect against no-shows with a customized cancellation policy. You can require 
 ## How to turn on no-show protection
 
 1. Go to Online booking on the side menu bar
-2. Click **Setting**
-3. Click **Payment**
-4. Click the** toggle** to turn on no-show protection
+2. Click **<Setting>**
+3. Click **<Payment>**
+4. Click the** <toggle>** to turn on no-show protection
 
 ![](__GHOST_URL__/content/images/2021/09/_12.gif)
 You may edit your no-show policy in the text box

@@ -2,10 +2,10 @@
 title: MoeGo Care Program - Special Offer for New Businesses
 slug: moego-care-program-special-offer-for-new-businesses
 date_published: 2022-11-29T06:00:00.000Z
-date_updated: 2022-12-07T05:36:58.000Z
+date_updated: 2024-01-03T01:22:28.000Z
 ---
 
-**The MoeGo Care Program **is ideal for new businesses who want to get started and thrive with MoeGo. It offers an annual contract with up to 6-month 50% off on the Growth plan. To see the non-discounted plan, head to our [pricing page](https://www.moego.pet/pricing?companyType=1). If your application is approved, you will be offered an annual contract to sign and a unique code to redeem this special offer. 
+**The MoeGo Care Program **is ideal for new businesses who want to get started and thrive with MoeGo. It offers an annual contract with up to 6-month 50% off on the Growth plan. If your application is approved, you will be offered an annual contract to sign and a unique code to redeem this special offer. 
 
 💡
 
@@ -20,7 +20,7 @@ This article will cover
 ### The MoeGo Care Program Special Offer includes
 
 - 50% off for up to the first 6 months in an annual contract on the Growth plan 
-- 10% off for purchasing MoeGo Pay hardware to build your in-person checkout
+- 10% off for MoeGo Pay bundle kit hardware to build your in-person checkout
 - MoeGo Care Academy with new business guidance and resources
 - Account review service from the dedicated account manager
 
@@ -46,27 +46,21 @@ The application will be reviewed as soon as we can. You’ll be notified via ema
 
 **Q: Which plan does it apply to?**
 
-It applies to the Growth Plan only, which provides essential features to start your business, boost revenue, and scale operations.
+It applies to the Growth Plan only, which provides essential features to start your business, build up clientele, boost revenue, and scale operations.
 
 **Q: How to redeem the special offer after my application is approved?**
 
-After you confirm and sign the annual contract, you’ll be offered discount codes for your subscription and MoeGo Pay hardware. 
+After receiving your unique link via email or from your AE, you’ll be prompted to either log into your account or sign up if you don’t have one yet. The next step is to sign the annual contract and place an order for your subscription and MoeGo Pay hardware - discount codes will be automatically applied.
 
-1) To apply discount for your subscription fees, log into your MoeGo account and enter the code when you upgrade to Growth Plan. 
-![](__GHOST_URL__/content/images/2022/11/CleanShot-2022-11-30-at-06.38.30@2x.png)
-2) To apply discount for MoeGo Pay hardware, go to [https://www.moego.shop/](https://www.moego.shop/) and enter your discount code at checkout. 
-![](__GHOST_URL__/content/images/2022/11/CleanShot-2022-11-30-at-06.34.40@2x.png)
-**Q: How do I sign the annual contract for this?**
-
-After your application is reviewed and approved, our team will get back to you and provide a digital contract to sign via email.
-
+This link supports web browsers on a desktop/tablet **and** mobile phones during the redemption process. 
+![](https://lh7-us.googleusercontent.com/nEQeqCJ92SDAW9bufGGN-Ug_iudPwGmmZmdcbCI4ocMpmPFlVGiw3UhGIbvaBLifDO7Y0u53kKmTyEgVyC63WfYdkj4U4gwRtwxDj2h9Vpf9oH8N-SnAJsf0zau6zYcxNPugd2rXP93VTyw9AJgUn3c)
 **Q: Is the subscription charged monthly or annually?**
 
 Monthly. We know the challenges that a new business faces at an early stage, so MoeGo will charge the subscription monthly and help you get through the first year.
 
 **Q: Will my annual contract renew after the initial year?**
 
-The annual contract will only be effective for 12 months from the date you sign it.  After the initial year, your subscription will be renewed monthly unless the service is canceled.
+The annual contract will only be effective for 12 months from the date you sign it.  After the initial year, your subscription will be auto renewed monthly unless the service is canceled.
 
 ### Terms&Conditions
 
@@ -84,6 +78,6 @@ The following Terms and Conditions apply to this MoeGo Care Program offer.
 
 **Limitations.** This offer is available only to those who meet the eligibility requirements. Each offer code is non-transferable and may be used one time only by its original recipient to redeem the offer by 30 days after receiving it, after which the offer may be discontinued. This offer cannot be combined with any other promotional offer (i.e. referral). Once the offer is redeemed, the discounted subscription fee and MoeGo Pay hardware are not refundable.
 
-**Early Termination. **If user is to terminate the contract by either canceling or downgrading the service before the Minimum Commitment Period, an early termination fee will be charged. The early termination fee will be the difference between your discounted and standard subscription prices.
+**Early Termination. **If user is to terminate the contract by either canceling or downgrading the service before the Minimum Commitment Period, an early termination fee will be charged. The early termination fee will be the remaining amount of the total contract value.
 
 **Exclusivity.** The integrated card processing is supported by MoeGo Pay exclusively.

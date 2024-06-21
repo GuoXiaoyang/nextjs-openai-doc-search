@@ -2,8 +2,9 @@
 title: Available staff, time, services for online booking
 slug: available-staff-time-services
 date_published: 2021-05-27T10:04:30.000Z
-date_updated: 2021-09-24T10:55:22.000Z
-tags: 07. Online booking
+date_updated: 2024-03-08T06:21:29.000Z
+tags: Online booking, Service Menu
+draft: true
 ---
 
 MoeGo online booking is the **most powerful **online booking tool for pet grooming businesses. In this guide, you will learn what you can do with **MoeGo online booking > Setting > Availability.**
@@ -12,16 +13,16 @@ MoeGo online booking is the **most powerful **online booking tool for pet groomi
 
 ## Set up available staff
 
-1. Go to **Online booking** on the side menu bar
-2. Click **Setting**
-3. Click **Availability**
+1. Go to **<Online booking>** on the side menu bar
+2. Click **<Setting>**
+3. Click **<Availability>**
 4. You can enable/disable staff for online booking by checking/unchecking the checkbox before the staff names. When the staff is disabled for online booking, clients will not see the option for the disabled staff on the booking page.
 
 💡 **By default, all staff shown on the calendar are available for online booking**
 ![](__GHOST_URL__/content/images/2021/06/disable-staff-from-ob.png)![](__GHOST_URL__/content/images/2021/06/OB-staff.png)What your clients see on your online booking website
 ## Set up available time
 ![](__GHOST_URL__/content/images/2021/09/image-10.png)
-**💡 The available time range is set within the [staff working hours](__GHOST_URL__/set-up-staff-and-working-hours/)**
+**💡 The available time range is set within the **[**staff working hours**](__GHOST_URL__/set-up-staff-and-working-hours/)
 ![](__GHOST_URL__/content/images/2021/06/staff-OB-hours.png)As the setting above, Sophia Murphy will not be available from 12:00 pm to 3:00 pm on the booking page![](__GHOST_URL__/content/images/2021/06/Ob-time-page.png)What your clients see on your online booking website
 ## Set up available services
 ![](__GHOST_URL__/content/images/2021/09/image-11.png)

@@ -2,7 +2,8 @@
 title: Online Booking Landing Page/Storefront
 slug: online-booking
 date_published: 1970-01-01T00:00:00.000Z
-date_updated: 2023-03-16T13:32:56.000Z
+date_updated: 2023-11-26T18:38:05.000Z
+tags: #nicole
 draft: true
 ---
 

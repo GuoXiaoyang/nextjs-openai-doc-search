@@ -15,23 +15,23 @@ Visualize your area planning in the mobile app
 
 # How to set up the area?
 
-1. Go to **Setting** on the side-menu
+1. Go to **<Setting>** on the side-menu
 2. Roll down and find the **"MOBILE GROOMING SETTING" **section
-3. Click **Set certain area for certain days**
-4. Click on the top-left **Area list**
-5. Click **Add New Area**
+3. Click **<Set certain area for certain days>**
+4. Click on the top-left **<Area list>**
+5. Click **<Add New Area>**
 6. Tap point by point for the area you would like to groom
-7. You can **Clear** and **Undo** the action
-8. Click **Next** and edit the **name** and **color** you like for this area
-9. Click **Add** then the area has been saved
+7. You can **<Clear>** and **<Undo>** the action
+8. Click **<Next>** and edit the **name** and **color** you like for this area
+9. Click **<Add>** then the area has been saved
 
 【pic or gif needed】
 
 # How to assign an area to date?
 
 1. Click on one of the areas you have set up
-2. Click **Assigned Date**
-3. Select the **date** and click **Save**
+2. Click **<Assigned Date>**
+3. Select the **date** and click **<Save>**
 4. You can change the month on the top and switch the groomers from the top-right corner
 
 ## How does it looks like on the map

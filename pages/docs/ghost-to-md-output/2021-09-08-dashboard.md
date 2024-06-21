@@ -3,7 +3,7 @@ title: Report dashboard
 slug: dashboard
 date_published: 2021-09-08T09:53:50.000Z
 date_updated: 2022-05-19T13:26:46.000Z
-tags: 10. Reports
+tags: Reports
 ---
 
 Excellent tool for monitoring your business.

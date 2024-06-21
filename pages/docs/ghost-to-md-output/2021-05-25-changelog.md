@@ -2,7 +2,7 @@
 title: Changelog
 slug: changelog
 date_published: 2021-05-25T13:21:11.000Z
-date_updated: 2021-05-30T12:01:15.000Z
+date_updated: 2024-01-08T08:33:41.000Z
 ---
 
 ### May 2021

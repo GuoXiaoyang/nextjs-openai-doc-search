@@ -3,7 +3,7 @@ title: Canceled appointments log
 slug: cancelled-appointments-log
 date_published: 2021-05-27T10:12:14.000Z
 date_updated: 2021-09-24T10:54:01.000Z
-tags: 10. Reports
+tags: Reports
 ---
 
 A list of canceled appointments, with details of booking ID, date, time, client, canceled date, canceled by, and cancel reason.
@@ -12,11 +12,11 @@ A list of canceled appointments, with details of booking ID, date, time, client,
 
 # Find cancelled appointment record from report
 
-1. Go to **Report** on the side-menu
-2. Click **Reports** tab on the top menu
-3. Click **Appointment** tab on the side-menu
-4. Choose **Cancelled appointments**
-5. Choose the duration you want to know and click **Run report**
+1. Go to **<Report>** on the side-menu
+2. Click **<Reports>** tab on the top menu
+3. Click **<Appointment>** tab on the side-menu
+4. Choose <**Cancelled appointments>**
+5. Choose the duration you want to know and click **<Run report>**
 
 ![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-16-at-17.54.59.png)![](__GHOST_URL__/content/images/2021/09/CleanShot-2021-09-16-at-17.57.52.gif)
 ## Export the data document

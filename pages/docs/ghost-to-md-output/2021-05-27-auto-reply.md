@@ -3,7 +3,7 @@ title: Auto reply⭕️(discard)
 slug: auto-reply
 date_published: 2021-05-27T10:01:46.000Z
 date_updated: 2021-09-13T03:04:15.000Z
-tags: #SMS templates, 04. Messages
+tags: #SMS templates, Messages
 draft: true
 ---
 

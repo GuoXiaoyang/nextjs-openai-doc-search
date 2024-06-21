@@ -2,8 +2,9 @@
 title: Require credit card for intake form
 slug: require-credit-card
 date_published: 2021-05-27T10:06:52.000Z
-date_updated: 2021-09-24T10:54:45.000Z
-tags: 09. Intake form
+date_updated: 2024-02-28T03:43:34.000Z
+tags: Intake form
+draft: true
 ---
 
 Require credit card on file when your customers are filling the intake form.

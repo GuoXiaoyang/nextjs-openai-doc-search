@@ -16,21 +16,21 @@ In other cases, you may prefer to have more control over the date and time of gi
 
 This is the best fit if you'd like to accept several pets in the same slot. You will be able to set how many pets can be accepted at the same time. Different customers can choose the slot repeatedly up to the limit you set. They can now drop off in groups! 
 
-1. Go to **Online booking** on the side menu bar
-2. Click **Setting**
-3. Click **Available time**
-4. Choose **By slots** in Availability type
-5. Set up **Available staff** and **Available time**
+1. Go to **<Online booking>** on the side menu bar
+2. Click **<Setting>**
+3. Click **<Available time>**
+4. Choose **<By slots>** in Availability type
+5. Set up <**Available staff**> and <**Available time**>
 
 ![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-09-at-07.26.02.png)Choose 'by slots'![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-09-at-06.59.48.png)Set up available staff![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-09-at-07.20.55.png)Set up available time![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-09-at-07.18.18.png)Repeat settings to multiple days![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-11-at-23.35.38.png)Client view when booking online (with exact time format)![](__GHOST_URL__/content/images/2022/05/CleanShot-2022-05-09-at-07.17.00.png)Client view when booking online (with 2h arrival window format)
 ## New type 2: Disable select time option
 
 You will have more control over your customers’ bookings. Customers will submit a request without having to choose an exact date and time. You can schedule it later in the booking request list. 
 
-1. Go to **Online booking** on the side menu bar
-2. Click **Setting**
-3. Click **Available time**
-4. Choose **Disable select time option** in Availability type
+1. Go to **<Online booking>** on the side menu bar
+2. Click **<Setting>**
+3. Click **<Available time>**
+4. Choose **<Disable select time option>** in Availability type
 
 ![](__GHOST_URL__/content/images/2022/05/image-3.png)choose 'disable select time'
 ## How to get started

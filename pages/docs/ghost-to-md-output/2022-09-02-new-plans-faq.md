@@ -2,7 +2,7 @@
 title: New Plans FAQ
 slug: new-plans-faq
 date_published: 2022-09-01T21:03:20.000Z
-date_updated: 2022-09-03T00:20:15.000Z
+date_updated: 2023-09-25T22:49:25.000Z
 ---
 
 **I am a current MoeGo customer on a paid plan. How will these new plans affect me?**
@@ -23,11 +23,7 @@ Yes, you can upgrade or downgrade plans anytime before Oct 1st. After that, thes
 
 **After October 1st, can grandfathered users switch to a different previous plan?**
 
-After October 1st, all [previous plans](https://www.moego.pet/pricing) will be sunsetted. Grandfathered plan users can’t change to any of the previous plans. However, you can still expand or reduce your units with the previous pricing. For example:
-
-- A mobile user with two vans can add additional vans or reduce vans.
-- A salon user on the Rising Star plan can add locations.
-- Beginner plan users can’t upgrade to the Rising Star or Business Elite plan. Likewise, Rising Star and Elite Business users can’t downgrade to the Beginner plan.
+After October 1st 2022, all [previous plans](https://www.moego.pet/pricing) will be sunsetted. Grandfathered plan users can’t change to any of the previous plans. Beginner plan users can’t upgrade to the Rising Star or Business Elite plan. Likewise, Rising Star and Elite Business users can’t downgrade to the Beginner plan.
 
 **After October 1st, can grandfathered users switch to the new pricing plan?**
 
@@ -46,4 +42,4 @@ You can always keep your grandfathered plan unless:
 
 **If I have a grandfathered plan, can I use newly released features?**
 
-- You will be able to access new updates and improvements on features included in your plan. For any brand new product features, we will be sure to let you know in advance which plan they’ll be in.
+- You will be able to access improvements on features included in your plan. For any brand new product features, we will be sure to let you know in advance which plan they’ll be in.

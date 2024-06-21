@@ -2,8 +2,9 @@
 title: 4 steps to get more positive reviews on your business page
 slug: 4-steps-to-get-more-positive-reviews-on-your-business-page
 date_published: 2021-09-26T02:18:56.000Z
-date_updated: 2021-10-23T16:04:24.000Z
-tags: 13. Blog
+date_updated: 2023-07-18T08:52:13.000Z
+tags: Blog
+draft: true
 ---
 
 Get more 5-star reviews on Yelp, Facebook, and Google

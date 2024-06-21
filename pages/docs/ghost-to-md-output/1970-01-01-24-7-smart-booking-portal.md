@@ -18,7 +18,7 @@ Here are the main problems we have heard from many business owners when thinking
 > - My clients always pick the small dog services while the dog is actually large 
 > - I'm not accepting new clients anymore, only existing clients 
 > - I don't want my clients have the wrong expectation that they have the time and date booked
-> - mobile grooming specific, I don't want to drive all around the city, I cannot have my client pick the date, I have to do it on my own with the best route 
+> - <mobile grooming specific> I don't want to drive all around the city, I cannot have my client pick the date, I have to do it on my own with the best route 
 
 At MoeGo, we've build the 24/7 Smart Online Booking to solve all these problems above. 
 

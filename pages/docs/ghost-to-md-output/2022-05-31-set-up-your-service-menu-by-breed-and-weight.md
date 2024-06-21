@@ -2,8 +2,8 @@
 title: Set up your service menu by breed and weight
 slug: set-up-your-service-menu-by-breed-and-weight
 date_published: 2022-05-31T10:31:35.000Z
-date_updated: 2022-05-31T10:31:35.000Z
-tags: What's new in MoeGo
+date_updated: 2024-03-29T08:33:18.000Z
+tags: What's new in MoeGo, Service Menu
 ---
 
 Another exciting advancement for online booking! Have your clients ever randomly selected a service that didn’t match the pet’s weight, not even for this breed, or just complained the menu was too complicated to choose from?
@@ -36,7 +36,7 @@ Yes. Clients should fill in the pet weight to make it work properly. Otherwise, 
 
 It currently only applies to online booking, to make sure clients select from the right services. In other words, it doesn't restrict you from booking any service from your side.
 
-** 4. What is the difference between the "weight limit" in Online Booking > Setting >  Preference and the weight range for each service?**
+** 4. What is the difference between the "weight limit" in Online Booking > Setting >  Preference and the weight range for each service?**
 
 The "weight limit" is for all the services. It's normally used as an upper limit that your business can accept. When adding the new pet profile, if the weight is over the limit, your customer will not be able to add the pet profile. 
 
